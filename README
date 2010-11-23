@@ -1,0 +1,6 @@
+This are the tools i'm using as based for my blog conversation.
+It dumps stuff from older zine installations into rst files.
+
+This requires that the blog posts where written in ZEML.  You
+will also have to adapt it when you are using other versions of
+Zine.  I was using the one before the content type split.
